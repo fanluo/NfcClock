@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="today_punch_time_formatter">今天上班时间：%s</string>
+    <string name="label_help">帮助</string>
+    <string name="title_main">NFC闹钟</string>
+    <string name="label_help_desc">该软件的主要功能是用来记录上班的打卡时间，并自动计算出下班时间，并设置闹钟提醒。</string>
+</resources>
